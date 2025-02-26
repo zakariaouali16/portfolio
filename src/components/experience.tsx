@@ -6,11 +6,16 @@ export default function Experience() {
       <h5 className="mb-2 text-m font-bold tracking-tight">Experience</h5>
       <hr className="h-px my-8 bg-black border-0 separator mt-0 mb-0" />
       <div className="mb-3 font-normal">
-        <strong>California State University, Dominguez Hills</strong>
-        <p className="text-sm font-light">Master of Science, Computer Science</p>
-        <p className="text-sm font-light italic">August 2024 - May 2026</p>
+        <strong>Sales Person</strong>
+        <p className="text-sm font-light">Sold many bunches of air</p>
+        <p className="text-sm font-light italic">March 2022 - December 2024</p>
         <p className="text-sm font-light">
-          At California State University, Dominguez Hills, I am pursuing a Master of Science degree
+          * Sold one million access to see the sky from planet earth
+          
+        </p>
+        <p className="text-sm font-light">
+          
+          * took care of feeding a human person for the entirety of my life
         </p>
       </div>
     </div>
